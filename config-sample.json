@@ -1,0 +1,12 @@
+{
+    "Configs":[
+        {
+            "config_name":"vm:odoo16-prod-mexnet",
+            "subscription_id":"ba9b9a2b-e93d-422b-922b-531d90794d8e",
+            "resource_group_name":"odoo16-prod-mexnet",
+            "virtualmachine_name":"odoo16-prod-mexnet",
+            "azure_username":"joerg.peter@mexnet.ch",
+            "azure_password":"xxxxxxxxxxxx"
+        }
+    ]
+}
